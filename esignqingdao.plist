@@ -17,7 +17,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.skibidi.esign1</string>
+				<string>com.xyzarco.esign1</string>
 				<key>bundle-version</key>
 				<string>5.0.0</string>
 				<key>kind</key>
